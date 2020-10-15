@@ -9,5 +9,5 @@ Technology Used:
 
 - PostgreSQL
 - JDBC,  DAO pattern, CLI
-- Unit Test and Integration testing with JUnitt
+- Unit Test and Integration testing with JUnit
 - Server-side API
